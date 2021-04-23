@@ -52,7 +52,7 @@
 
 
 ## 사용자 견적 추천
-file:///C:/Users/82105/Desktop/%EA%B2%AC%EC%A0%81%EC%B6%94%EC%B2%9C.gif
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57785267/115813207-bad5f600-a42d-11eb-86e9-748ccff97aad.gif)
 
 
 
