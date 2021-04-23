@@ -32,7 +32,8 @@
 
 
 ## 관리자:
-![image](https://user-images.githubusercontent.com/57785267/115805668-5eb8a500-a420-11eb-864d-2077af37dd85.png)
+![관리자](https://user-images.githubusercontent.com/57785267/115809461-1e105a00-a427-11eb-99f0-3d5db9039904.gif)
+
 
 
 
@@ -41,7 +42,8 @@
 
 
 ## 카테고리
-![image](https://user-images.githubusercontent.com/57785267/115807254-426a3780-a423-11eb-8524-34640fcc5a0e.png)
+![카테고리](https://user-images.githubusercontent.com/57785267/115809303-cd006600-a426-11eb-81be-ce21cc1f7efc.gif)
+
 
 
 
@@ -50,7 +52,7 @@
 
 
 ## 사용자 견적 추천
-![image](https://user-images.githubusercontent.com/57785267/115807456-9d9c2a00-a423-11eb-80e4-949f744af4a5.png)
+file:///C:/Users/82105/Desktop/%EA%B2%AC%EC%A0%81%EC%B6%94%EC%B2%9C.gif
 
 
 
@@ -60,7 +62,8 @@
 
 
 ## 커뮤니티
-![image](https://user-images.githubusercontent.com/57785267/115809123-814dbc80-a426-11eb-8cef-8dd11beeb494.png)
+![수정](https://user-images.githubusercontent.com/57785267/115809326-d5f13780-a426-11eb-8e92-3832b61945a9.gif)
+
 
 
 
